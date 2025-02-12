@@ -3,3 +3,4 @@ print-addresses
 print-byte1
 print-low
 print-sizes
+crash
